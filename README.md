@@ -1,4 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/Helbram/Helbram/master/assets/main.gif)
+![Banner](https://raw.githubusercontent.com/Helbram/Helbram/master/assets/main2.gif)
 ### Hi there 👋
 
 <!--
